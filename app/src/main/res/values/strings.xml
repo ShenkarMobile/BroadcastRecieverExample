@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroadcastRecieverExample</string>
+    <string name="new_notification">New notification</string>
+</resources>
